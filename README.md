@@ -1,6 +1,6 @@
 # tidenote & 小片刻
 
-tidenote & 潮记   Beanly helps you take AI notes for meetings, classes and research. Capture ideas, organize notes and   turn long content into clear summaries in seconds.
+tidenote & 小片刻   Beanly helps you take AI notes for meetings, classes and research. Capture ideas, organize notes and   turn long content into clear summaries in seconds.
 
 🔗 网站：https://beanly.top/
 
