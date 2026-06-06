@@ -6,8 +6,11 @@ tidenote    Beanly helps you take AI notes for meetings, classes and research. C
 
 ## 文章
 
-共 10 篇。
+共 13 篇。
 
+- [I Tested Notion Templates for 3 Months — Here's What Actually Works](_posts/i-tested-notion-templates-for-3-months--heres-what-actually-works-2917.md)
+- [I Tested Beanly AI for a Week: Honest Note-Taking Workflow Review](_posts/i-tested-beanly-ai-for-a-week-honest-note-taking-workflow-review-3245.md)
+- [Beanly Review: AI Note-Taking for Better Knowledge Management](_posts/beanly-review-ai-note-taking-for-better-knowledge-management-2419.md)
 - [jartalk记账：轻松记下日常开支，稳稳攒下理想人生！](_posts/jartalk-expense-tracker-save-money-dream-life.md)
 - [Turn Silly Thoughts into Fun Memories with AI Note-Taking](_posts/silly-thoughts-fun-memories-ai-notes.md)
 - [小片刻高效记笔记](_posts/article-1780640706579284582.md)
