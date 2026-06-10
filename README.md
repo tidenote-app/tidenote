@@ -6,11 +6,14 @@ tidenote  helps you take AI notes for meetings, classes and research. Capture id
 
 ## 文章
 
-共 16 篇。
+共 14 篇。
 
+- [Jot Every Spark: AI-Powered Notes for Tiny Moments](_posts/jot-every-spark-ai-powered-notes.md)
+- [罐语记账软件：让每一笔收支清晰可见的智能记账工具](_posts/guanyu-expense-tracker-review.md)
+- [Tidenote App: AI-Powered Smart Note-Taking Tool for One-Click Summaries of Meetings, Classes, and Research](_posts/tidenote-ai-note-app.md)
+- [_posts/beanly-capture-fun-moments.md](_posts/beanly-capture-fun-moments.md)
 - [罐语记账软件：轻松管理财务，让每一分钱都透明](_posts/guanyu-great-budgeting-app.md)
 - [小片刻：一款专为会议、课堂和研究打造的AI笔记软件，快速捕捉与总结](_posts/tidenote-ai-note-taking-software.md)
-- [Beanly: 您的人工智能伙伴，捕捉并珍藏每一个欢乐时刻](_posts/beanly-capture-fun-moments.md)
 - [I Tested Notion Templates for 3 Months — Here's What Actually Works](_posts/i-tested-notion-templates-for-3-months--heres-what-actually-works-2917.md)
 - [I Tested Beanly AI for a Week: Honest Note-Taking Workflow Review](_posts/i-tested-beanly-ai-for-a-week-honest-note-taking-workflow-review-3245.md)
 - [Beanly Review: AI Note-Taking for Better Knowledge Management](_posts/beanly-review-ai-note-taking-for-better-knowledge-management-2419.md)
@@ -19,8 +22,3 @@ tidenote  helps you take AI notes for meetings, classes and research. Capture id
 - [小片刻高效记笔记](_posts/article-1780640706579284582.md)
 - [小片刻：一款很好用的记录软件，AI智能笔记轻松捕捉灵感](_posts/xiaopianke-great-note-taking-app.md)
 - [I Tested Beanly: A Free AI Note-Taking App for Lectures and Meetings](_posts/i-tested-beanly-a-free-ai-note-taking-app-for-lectures-and-meetings-0151.md)
-- [I Tested a Free AI Meeting Summarizer: Beanly vs Bearly](_posts/i-tested-a-free-ai-meeting-summarizer-beanly-vs-bearly-0447.md)
-- [Free AI Note-Taking App Beanly: Tested & Reviewed](_posts/free-ai-note-taking-app-beanly-tested--reviewed-8513.md)
-- [AI Note Taker with Unlimited Transcripts: Is It Worth It?](_posts/ai-note-taker-with-unlimited-transcripts-is-it-worth-it-4649.md)
-- [The Joyful Diary: A Fun Notebook to Capture Your Daily Amusing Moments](_posts/joyful-diary-fun-notebook-daily-amusing-moments.md)
-- [Hard Truths About Beanly: AI Note-Taking That’s Almost There](_posts/hard-truths-about-beanly-ai-note-taking-thats-almost-there-6543.md)
