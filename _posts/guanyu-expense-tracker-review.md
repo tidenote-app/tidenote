@@ -1,36 +1,36 @@
 ---
-title: "罐语记账软件：让每一笔收支清晰可见的智能记账工具"
+title: "JarNote: A Smart Bookkeeping Tool That Makes Every Income and Expense Clear"
 date: 2026-06-10
-description: "罐语是一款界面简洁、操作流畅的个人记账软件，支持多账本、智能分类与自动统计，帮助用户轻松掌握财务流水。无需复杂操作，每天花30秒记一笔，即可生成可视化账单与月度分析报告，真正实现让记账变简单。"
+description: "JarNote is a personal bookkeeping app with a clean interface and smooth operation, supporting multiple ledgers, smart categorization, and automatic statistics, helping users easily manage their financial flows. Without complex operations, just 30 seconds a day to record an entry, and it generates visual bills and monthly analysis reports, truly making bookkeeping simple."
 slug: "guanyu-expense-tracker-review"
 ---
 
-记账这件事，说实话挺反人性的。刚开始下载App那几天，每一笔都记得清清楚楚，觉得自己马上就要财务自由了。结果两周之后，不是忘了记就是懒得打开，账单缺口越来越大，最后干脆破罐子破摔——算了吧，反正也理不清。
+Bookkeeping, to be honest, is quite counter-human nature. In the first few days after downloading the app, you record every single entry clearly, feeling like you're about to achieve financial freedom. But after two weeks, you either forget to record or just can't be bothered to open it, the gaps in your bills grow larger, and eventually you give up entirely — forget it, it's a mess anyway.
 
-这大概是大多数人用记账软件的真实结局。但问题不完全是意志力，而是大部分记账工具根本没站在用户这边：它们只负责记录，不负责帮你理解钱到底花在哪了。这也是为什么我试了一圈之后，对罐语记账软件印象还不错的原因。![](https://seo123.help/uploads/6/17810710110857372215568.jpg)
+This is probably the real ending for most people using bookkeeping apps. But the issue isn't entirely willpower — most bookkeeping tools aren't on the user's side: they only record, without helping you understand where your money actually goes. That's also why, after trying a bunch, I have a favorable impression of the JarNote bookkeeping app.![](https://seo123.help/uploads/6/17810710110857372215568.jpg)
 
-## 它做了什么不一样的事
+## What does it do differently?
 
-罐语记账最直接的好处是：你不需要跟它较劲。大多数软件让你手动选类别，分得特别细，吃个饭还要从外卖、堂食、简餐里挑一个，一个月下来账记得好看，但你实际上很累。罐语的方式更接近“先记录下来，再说归类的事”。
+The most direct benefit of JarNote is: you don't have to struggle with it. Most apps make you manually select categories, breaking things down in extreme detail — even just eating a meal you have to choose from takeout, dine-in, or light meal. At the end of the month your records look nice, but you're actually exhausted. JarNote's approach is more like "record first, sort later."
 
-你可以直接语音输入一句话，比如“下午买了杯咖啡38块”，系统会自动识别并归到餐饮里面。这个过程快到你几乎没有“记账”的负担感。对于我这种懒人来说，这确实是能坚持下来的关键点。
+You can directly input a sentence by voice, for example, "Bought a cup of coffee for 38 bucks this afternoon," and the system will automatically recognize and categorize it under dining. This process is so fast that you barely feel the burden of "bookkeeping." For a lazy person like me, this is indeed the key to sticking with it.
 
-另一个有意思的地方是它的可视化方式。不是那种花里胡哨的饼图或者雷达图，而是更像一个**罐语记账软件**的名字暗示的那样——像一个个罐子，你把不同的钱放进去，能看到余额变化，也能倒查每一笔的去向。这个逻辑很直观，至少对我来说，比看一堆百分比舒服得多。
+Another interesting aspect is its visualization. It's not some fancy pie chart or radar chart, but more like what the name **JarNote** suggests — like individual jars, you put different money into them, see the balance change, and trace back where each entry went. This logic is intuitive, at least for me, much more comfortable than looking at a bunch of percentages.
 
-## 现实里用起来怎么样
+## How does it work in real life?
 
-拿我自己的情况打个比方。上个月有个项目奖金发下来，按以往习惯，这笔钱大概率会在半个月内莫名其妙花完。但用罐语记账之后就变得清晰很多：我把这5000块放进“额外收入”这个罐子，然后日常消费还是走日常罐子。月底打开一看，额外收入里还剩3400——不是因为我刻意省钱，而是因为那笔钱被单独“装”起来了，花的时候会多一个心理门槛。
+Take my own situation as an example. Last month, a project bonus came in. By past habits, this money would most likely be spent inexplicably within half a month. But after using JarNote, it became much clearer: I put that 5000 yuan into the "extra income" jar, and continued daily spending from the daily jar. At the end of the month, I saw that the extra income jar still had 3400 left — not because I deliberately saved money, but because that money was "packed" separately, creating an extra psychological threshold when spending.
 
-另一个场景是合租的室友。我俩共用一笔水电煤和日用品开销。以前靠微信群转账，月底对账能对到怀疑人生。罐语有一个共享记账功能，两个人可以在同一个罐子里记支出，每个月自动汇总。两个月试下来，再也没有“我上周买了厕纸你忘还我钱”这种对话了。
+Another scenario is with a roommate. We share utilities and daily necessities expenses. In the past, we relied on WeChat group transfers, and reconciling at the end of the month made us doubt life. JarNote has a shared bookkeeping feature; two people can record expenses in the same jar, and it automatically aggregates each month. After two months of trying, there have been no more conversations like "I bought toilet paper last week, and you forgot to pay me back."
 
-## 它不完美的地方
+## Where it falls short
 
-说点实际的缺点。罐语记账的自动分类准确率大概在80%左右，偶尔会把超市买的零食归到“日用百货”而不是餐饮，手动改一下也不麻烦，但如果你对分类有强迫症，可能需要适应它的逻辑。另外它的报表导出功能比较简单，没有太多的高级筛选条件。如果你习惯每个月用Excel做深度财务复盘，可能要先将就一下。
+Let's talk about some real drawbacks. The automatic categorization accuracy of JarNote is around 80%. Occasionally, it will categorize snacks bought at the supermarket as "daily necessities" instead of dining. Manually correcting it is not a hassle, but if you're a categorization perfectionist, you might need to adapt to its logic. Also, its report export function is relatively simple, without many advanced filtering options. If you're used to doing deep financial reviews in Excel every month, you might have to make do.
 
-还有就是它的投资理财类账户支持有限。股票、基金、数字货币这些资产的市价变动无法自动同步，只能自己手动录一个初始金额。对于有较多投资的人来说，它更像一个消费记账工具，而不是全资产管家。
+Also, its support for investment and financial accounts is limited. Market price fluctuations for stocks, funds, cryptocurrencies, etc., cannot be automatically synced; you can only manually enter an initial amount. For those with more investments, it is more of a spending tracking tool than an all-asset manager.
 
-## 它适合什么样的人
+## Who is it suitable for?
 
-如果你对记账的需求就是“搞清楚钱花哪儿了，别再稀里糊涂过日子”，那罐语记账确实够用。它不搞花活，也不给你制造压力。反过来，如果你是重度财务数据控，需要细致的分类、自动同步投资账户、甚至能帮你生成年度财务报告的那种，那它可能不是你想要的。
+If your need for bookkeeping is simply "figure out where the money went and stop living in a blur," then JarNote is indeed sufficient. It doesn't play tricks, nor does it create pressure. Conversely, if you're a heavy financial data controller, needing detailed categorization, automatic syncing of investment accounts, and even the ability to generate annual financial reports, then it might not be what you're looking for.
 
-说到底，记账工具能不能帮你省到钱，核心不是功能多不多，而是你能不能坚持用。罐语记账软件至少在降低坚持门槛这件事上，做得比大多数同类产品要好。起码我用到现在，还没出现过丢了大半个月账单的情况——这对我来说，已经是胜利了。
+At the end of the day, whether a bookkeeping tool can help you save money depends not on how many features it has, but on whether you can stick with it. The JarNote bookkeeping app, at least in lowering the barrier to persistence, does better than most similar products. At least I haven't lost half a month's bills since I started using it — that's already a victory for me.
