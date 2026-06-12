@@ -6,8 +6,11 @@ tidenote  helps you take AI notes for meetings, classes and research. Capture id
 
 ## 文章
 
-共 18 篇。
+共 21 篇。
 
+- [一款免费的AI笔记应用能取代你的头脑风暴工具吗？](_posts/can-a-free-ai-note-taking-app-replace-your-brainstorming-tool-1283.md)
+- [I Used an AI Note Taker for Daily Reflection – Here's What Happened](_posts/i-used-an-ai-note-taker-for-daily-reflection--heres-what-happened-2629.md)
+- [This Free AI Notes App Gave Me Instant Summaries for Free](_posts/this-free-ai-notes-app-gave-me-instant-summaries-for-free-1611.md)
 - [Tidenote AI笔记助手：智能记录会议、课堂与研究，一键生成摘要](_posts/tidenote-ai-note-taking-app.md)
 - [实际测试：AI笔记应用是否名副其实？](_posts/real-world-test-do-ai-note-taking-apps-deliver-0494.md)
 - [Tidenote评测：它是最好的免费AI笔记应用吗？](_posts/tidenote-review-is-it-the-best-free-ai-note-taking-app-8365.md)
