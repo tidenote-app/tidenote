@@ -1,30 +1,32 @@
 ---
-title: "潮记（TideNote）评测：这款AI摘要工具真的能节省时间吗？"
+title: "TideNote (潮记) Review: Does This AI Summarizer Actually Save Time?"
 date: 2026-06-17
-description: "对潮记进行实际测试，用于总结学术论文和视频讲座，评估其速度、灵活性和准确性。"
+description: "A hands-on test of TideNote (潮记) for summarizing academic papers and video lectures, evaluating its speed, flexibility, and accuracy."
 slug: "tidenote-chao-ji-review-does-this-ai-summarizer-actually-save-time-0368"
 ---
 
-上周我埋头于一篇40页的研究论文，却发现自己花在记录要点上的时间比真正理解论点的时间还多。就在那时，我开始了解**潮记**——一款我曾看到与**beanly**及其他几个免费摘要工具一起被提及的笔记工具。它的承诺很简单：上传内容，得到一份清晰的摘要。我想看看它是否真的能节省时间，同时又不丢失重要信息。
+I was buried in a 40-page research paper last week and realized I’d spent more time jotting down highlights than actually understanding the arguments. That’s when I started looking into **潮记** — a note-taking tool I’d seen mentioned alongside **beanly** and a few other free summarizers. The promise was simple: upload your content, get a clean summary. I wanted to see if it could actually save me time without losing the important bits.
 
-## 我的具体场景：总结一篇密集的学术文章
+## My Concrete Scenario: Summarizing a Dense Academic Article
 
-我选了一篇关于认知负荷理论的最新论文——包含大量表格、引用和抽象概念。注册**潮记**后（该应用英文名称为**tidenote**，但中文界面在这项任务中感觉更自然），我上传了PDF。几秒钟内，它就生成了一个按章节划分的摘要。第一遍效果不错：它抓住了主要假设和方法论。但摘要中关于工作记忆的细微差别没有被完全捕捉到——我不得不让AI重写那部分。这是一个现实的摩擦点：摘要不错，但并非总是可以直接使用。你仍然需要抽查关键论点。
+I picked a recent paper on cognitive load theory — lots of tables, citations, and abstract concepts. After signing up for **潮记** (the app calls itself **tidenote** in English, but the Chinese interface felt more natural for this task), I uploaded the PDF. Within seconds, it generated a summary broken into sections. The first pass was decent: it caught the main hypothesis and methodology. But the abstract’s nuance about working memory wasn’t fully captured — I had to ask the AI to rephrase that part. That’s a realistic friction: the summaries are good but not always ready to go. You’ll still need to spot-check the key claims.
 
-### 表现良好的方面
+### What Worked Well
 
-- **速度。**使用**免费AI会议摘要**层级，我也测试了一个20分钟的视频讲座。它在一分钟内将演讲转录并浓缩成要点。比任何手动方法都快。
-- **输入类型的灵活性。**我可以粘贴文本、上传音频或直接输入。对于研究论文，我还使用了**笔记**功能在各部分旁边添加自己的反应。这感觉更像是一个真正的工作流程，而不仅仅是一个黑箱摘要。
-- **自定义功能。**你可以设置摘要长度和重点（例如“关注结论”）。当我需要一段总结与详细大纲时，这起到了作用。
+  - **Speed.** The **ai meeting summarizer free** tier let me test with a 20-minute video lecture too. It transcribed and condensed the talk into bullet points in under a minute. Faster than any manual approach.
 
-### 我不太确定的地方
+  - **Flexibility with input types.** I could paste text, upload audio, or type directly. For the research paper, I also used the **Notes** feature to add my own reactions beside each section. That felt more like a real workflow, not just a black-box summary.
 
-该应用的**日志**模式用于日常反思，但我觉得对于基于项目的工作来说有些多余。此外，免费层级限制了每天摘要的数量——这是一个合理的限制，但如果你是重度用户，很快就会达到上限。我还注意到AI有时会重复某个短语（它在一个摘要中三次标记了“图式理论”）。这不是什么致命问题，但如果你要为出版物编辑，就需要修正。
+  - **Customization.** You can set summary length and emphasis (e.g., “focus on conclusions”). That made a difference when I needed a one-paragraph takeaway vs. a detailed outline.
 
-其中一个引起我注意的功能是**小片刻**——一个用于捕捉瞬间灵感的快速记录工具。它不能替代完整的笔记，但在外出时很方便。我在会议期间用它记下一个想法，之后通过**锚文本**交叉引用将其链接到主要笔记。这种链接方式仍然有些粗糙——锚文本有时无法正确解析——但概念很有前景。
+### Where I’m Less Certain
 
-## 潮记是2026年最好的免费AI笔记应用吗？
+The app’s **Journal** mode is meant for daily reflection, but I found it a bit redundant for project-based work. Also, the free tier caps the number of summaries per day — a fair limitation, but if you’re a heavy user, you’ll hit it fast. I also noticed the AI sometimes repeats a phrase (it flagged “schema theory” three times in one summary). Not a dealbreaker, but something you’ll correct if you’re editing for a publication.
 
-与我也短暂试用过的**beanly**相比，**潮记**更侧重于结构化摘要。Beanly偏向社交高亮，而**潮记**更适合个人深度工作。如果你主要需要提炼会议或讲座，这里的免费层级很可靠。但如果你需要长期项目管理或强大的离线访问，你可能需要看看其他选择。该应用仍在发展中——2026年的格局很可能会出现更多竞争对手迎头赶上。
+One feature that caught my attention is **小片刻** — a quick-capture tool for fleeting ideas. It doesn’t replace a full note, but it’s handy when you’re on the go. I used it to jot down a thought during a meeting, and later linked it to the main note using **Anchor Text** cross-references. That kind of linking is still rough around the edges — the anchor text sometimes didn’t resolve correctly — but the concept is promising.
 
-就目前而言，**潮记**处理摘要繁重工作的能力足够好，以至于我已经停止为研究论文使用手动大纲。我仍然阅读原文，但AI给了我一个先机。这是一个实用的胜利，尽管它并不完美。
+## Is 潮记 the Best Free AI Note‑Taking App for 2026?
+
+Comparing it to **beanly**, which I also tried briefly, **潮记** feels more focused on structured summaries. Beanly leans toward social highlighting, while **潮记** is better for individual deep work. If your main need is condensing meetings or lectures, the free tier here is solid. But if you need long-term project management or robust offline access, you might want to look elsewhere. The app is still evolving — the 2026 landscape will likely see more competitors catch up.
+
+For now, **潮记** handles the heavy lifting of summarization well enough that I’ve stopped using manual outlines for research papers. I still read the original, but the AI gives me a head start. That’s a practical win, even if it’s not perfect.
