@@ -1,38 +1,38 @@
 ---
-title: "我是 Obsidian 重度用户。这就是 tidenote 打动我的原因"
+title: "I'm an Obsidian Power User. Here's Why tidenote Won Me Over"
 date: 2026-06-21
-description: "在多年优化 Obsidian 之后，这位重度用户发现 tidenote 能大幅缩短将会议笔记和研究内容转换为 markdown 文件的时间。一篇实用评测。"
+description: "After years optimizing Obsidian, this power user found tidenote slashes the time to capture meeting notes and research into markdown files. A practical review."
 slug: "im-an-obsidian-power-user-heres-why-tidenote-won-me-over-5739"
 ---
 
-我使用 Obsidian 已经多年——插件齐全、库优化到位、关系图谱视图确实有用。所以当我听说 **tidenote** 时，我持怀疑态度。又一款号称能“改变”我工作流程的 AI 笔记应用？我试过不少，大多都落灰了。但我已经测试 **tidenote** 几周了，把它作为会议笔记、课程转录和研究文章的辅助工具，如果你是一位 **Obsidian 重度用户**，正在寻找一种更快将原始材料导入库中的方法，那它值得一谈。
+I’ve been using Obsidian for years—plugged in, vault optimized, graph view actually useful. So when I heard about **tidenote**, I was skeptical. Another AI note-taking app promising to “transform” my workflow? I’ve tried plenty, and most end up collecting dust. But I’ve been testing **tidenote** for a couple of weeks as a sidekick for meeting notes, class transcripts, and research articles, and it’s worth talking about if you’re an **Obsidian power user** looking for a faster way to get raw material into your vault.
 
-## tidenote 如何融入以 Obsidian 为核心的工作流程
+## How tidenote fits into an Obsidian-centric workflow
 
-对我来说真正的收获是减少了摩擦。我通常录制会议，然后手动提取要点到 Obsidian 中。这一步既慢又容易出错。有了 **tidenote**，我可以直接丢进一段录音或一长串邮件线程，它会在几秒钟内输出结构化的摘要。我第一次用它测试一个 45 分钟的项目回顾时，输出内容足够清晰，我只调整了几个要点就保存为 markdown 文件。仅此一项就为我节省了大约 20 分钟。
+The real win for me was the reduction in friction. I usually record meetings and then manually extract key points into Obsidian. That step is slow and error-prone. With **tidenote**, I can dump a recording or a long email thread, and it spits out a structured summary in seconds. The first time I tested it on a 45-minute project review, the output was clean enough that I only tweaked a few bullet points before saving it as a markdown file. That alone saved me about 20 minutes.
 
-但关键在于：**tidenote** 并不试图取代 Obsidian。它是一个捕捉工具。你用它生成 **笔记**，然后导出或复制到任何地方。我发现自己在使用 **beanly**（我用它做轻量笔记）的同时，甚至在需要快速交叉链接时使用 **Anchor Text** 引用。它并非无缝——目前还没有直接的 Obsidian 插件——但复制粘贴流程足够快，不会打断节奏。
+But here’s the thing: **tidenote** isn’t trying to replace Obsidian. It’s a capture tool. You use it to generate **Notes** and then export or copy them wherever you want. I found myself using it alongside **beanly** (which I use for lighter note-taking) and even **Anchor Text** references when I needed quick cross-links. It’s not seamless—there’s no direct Obsidian plugin yet—but the copy-paste flow is fast enough that it doesn’t kill momentum.
 
-## 实际效果如何
+## What actually worked
 
-### 不会遗漏上下文的会议摘要
+### Meeting summaries that don’t miss the context
 
-我经常在客户电话和内部站会之间切换。**tidenote** 对两者都处理得出奇好。在一次混乱的 30 分钟头脑风暴中，它捕捉到了主要决策，甚至还标记了我遗漏的一个行动项。摘要并不完美——它把两个不同的想法合并到了一个标题下——但我能在一分钟内修复。对于一个 **2026 年免费 AI 笔记应用** 来说，这已经很不错了。
+I tend to jump between client calls and internal stand-ups. **tidenote** handled both surprisingly well. On a messy 30-minute brainstorm, it captured the main decisions and even flagged one action item I had missed. The summary wasn’t perfect—it lumped two separate ideas under one heading—but I could fix that in under a minute. For a **free AI note taking app 2026**, that’s solid.
 
-### 研究文章消化
+### Research article digestion
 
-我丢给它一篇密集的学术 PDF（大约 15 页机器学习理论）。它生成的摘要对于我的需求来说太浅了——错过了重要的注意事项和统计细节。但作为在 Obsidian 中创建 **日记** 条目的起点，它很有用。我可以快速提取核心论点，然后添加自己的评论。它没有取代深度阅读，但使初始捕捉更快。
+I threw a dense academic PDF at it (about 15 pages of machine learning theory). The summary it generated was too shallow for my needs—it missed important caveats and statistical nuances. But as a starting point for creating a **Journal** entry in Obsidian, it was useful. I could quickly pull out the core argument and then add my own commentary. It didn’t replace deep reading, but it made the initial capture faster.
 
-### 课堂笔记快速捕捉
+### Quick capture for class notes
 
-我还录制了在线课程中的几节讲座。**tidenote** 对多位发言人的处理还行，尽管在大量技术术语上会出错。不过，时间戳帮助我跳回令人困惑的部分。仅这一功能就让它值得留在我的手机上。
+I also recorded a couple of lectures from an online course. **tidenote** handled multiple speakers okay, though it stumbled on heavy technical jargon. Still, the timestamps helped me jump back to confusing parts. That feature alone made it worth keeping on my phone.
 
-## 对重度用户而言的不足之处
+## Where it falls short for power users
 
-最大的代价是缺乏深度定制。像我这样的 **Obsidian 重度用户** 希望控制输出格式、标签和链接。**tidenote** 能给你一个不错的摘要，但你很难让它始终以特定风格输出。我不得不手动重新格式化一些笔记以匹配我库的模板。这是一种轻微的摩擦，并非致命问题。
+The biggest tradeoff is the lack of deep customization. An **Obsidian power user** like me wants control over output format, tagging, and linking. **tidenote** gives you a decent summary, but you can’t easily tell it to always output in a specific style. I had to manually reformat a few notes to match my vault’s template. It’s a mild friction, not a dealbreaker.
 
-此外，我还尝试将其作为日常日记的 **最佳免费 AI 笔记应用** 选项——有一个叫 **小片刻** 的功能，可以根据你的条目生成简短的反思。它……还行。反思感觉太泛泛了。我宁愿从头开始写自己的 **日记** 条目。所以我不推荐将它用于个人日记，除非你能接受 AI 生成的提示。
+Also, I tried using it as a **best free AI note taking app** option for daily journaling—there’s a feature called **小片刻** that generates a short reflection based on your entries. It was… okay. The reflections felt too generic. I’d rather write my own **Journal** entries from scratch. So I wouldn’t recommend it for personal journaling unless you’re okay with AI-generated prompts.
 
-## 它是 2026 年最佳免费 AI 笔记应用吗？
+## Is it the best free AI note taking app 2026?
 
-这是一个大胆的说法，我还没准备好下这个结论。它绝对是目前最易用的免费选项之一，尤其适合会议和研究捕捉。但如果你是需要与 Obsidian 深度集成的重度用户，你仍然需要手动操作。对于只想快速、轻松地从音频或文本生成结构化 **笔记** 的人来说，它是一个强有力的候选。我建议测试一周——尤其是会议摘要功能——看看它是否能为你节省时间。它为我节省了不少时间，所以我保留它，尽管它并不完美。
+That’s a bold claim, and I’m not ready to make it. It’s definitely one of the most usable free options right now, especially for meeting and research capture. But if you’re a power user who needs deep integration with Obsidian, you’ll still need manual steps. For someone who just wants a quick, no-fuss way to generate structured **Notes** from audio or text, it’s a strong candidate. I’d say test it for a week—especially the meeting summary feature—and see if it saves you time. It saved me enough that I’m keeping it around, even if it’s not the perfect fit.
