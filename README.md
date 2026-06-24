@@ -6,8 +6,11 @@ tidenote  helps you take AI notes for meetings, classes and research. Capture id
 
 ## 文章
 
-共 10 篇。
+共 13 篇。
 
+- [Entries AI 笔记应用评测：三个需要留意的隐藏陷阱](_posts/entries-ai-note-taking-review-3-hidden-pitfalls-to-watch-out-for-6140.md)
+- [beanly vs tidenote: Which Free AI Note-Taking Tool Wins?](_posts/beanly-vs-tidenote-which-free-ai-note-taking-tool-wins-6190.md)
+- [PKM Showdown: tidenote vs beanly – Which AI Note-Taking Tool Wins?](_posts/pkm-showdown-tidenote-vs-beanly--which-ai-note-taking-tool-wins-7825.md)
 - [明亮又轻松：为什么职场女性信赖Tidenote的全场景AI笔记](_posts/tidenote-ai-note-taking-office-ladies.md)
 - [Productivity Booster: tidenote AI Note Assistant, Turn Long Content into Clear Summaries with One Click](_posts/tidenote-ai-notes-assistant.md)
 - [Tidenote：终于适合我的笔记工作流程](_posts/tidenote-the-note-taking-workflow-that-finally-works-for-me-2166.md)
